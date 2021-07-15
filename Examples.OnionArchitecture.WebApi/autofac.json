@@ -1,0 +1,18 @@
+﻿{
+  "defaultAssembly": "Examples.OnionArchitecture.Infrastructure",
+  "modules": [
+    {
+      "type": "Examples.OnionArchitecture.Infrastructure.Modules.WebApiModule",
+      "properties": {
+      }
+    },
+    {
+      "type": "Examples.OnionArchitecture.Infrastructure.Modules.ApplicationModule",
+      "properties": {
+      }
+    },
+    {
+      "type": "Examples.OnionArchitecture.Infrastructure.InMemoryDataAccess.Module"
+    }
+  ]
+}
